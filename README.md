@@ -1,4 +1,7 @@
 # NESTJS MQTT PRACTICE
+## Feature
+
+MQTT Broker(Mosuqitto) Docker와 Subscriber, Publisher 통신 
 
 ## install
 
