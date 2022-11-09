@@ -9,8 +9,7 @@ async function bootstrap() {
     {
       transport: Transport.MQTT,
       options: {
-        host: 'localhost',
-        port: 1883,
+        url: process.env.BROKER_SERVER_URL,
       },
     },
   );
