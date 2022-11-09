@@ -23,4 +23,4 @@ client, server 따로 `pnpm install`
 
 
 ![스크린샷 2022-11-09 오후 7 08 10](https://user-images.githubusercontent.com/105476777/200809564-a5bc7cb4-84b6-4d51-9340-36d550da4279.png)
-
+<img width="594" alt="image" src="https://user-images.githubusercontent.com/105476777/200816287-a5742742-64a4-4d68-8ce3-d217fdd605ac.png">
