@@ -2,9 +2,9 @@
 
 ## setup
 
-- pnpm install
+- `pnpm install`
 
 ## USage
 
-- nest start
+- `nest start`
 - use PostMan
